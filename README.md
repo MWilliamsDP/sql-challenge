@@ -1,1 +1,2 @@
 # sql-challenge
+This homework takes multiple tables that each have varying information about employees and departments of a particular company and pulls particular data as requested.  There is a schema for the table creation and for the queries.  The CSV files were given in the original data and are not included in this repository.  Per the submission instruction there is and ERD and code for the table creation and queries.
